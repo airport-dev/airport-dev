@@ -29,6 +29,8 @@ Hi I"m airport-dev a passionate self-tauht frontEnd web developer from japan
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 etc ...
 
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=airport-dev&hide_border=true&layout=compact)
+
 <br />
 <br />
 
@@ -41,13 +43,6 @@ etc ...
 <br />
 <br />
 
-**▼ GithubStats and Most used Languages:**
+**▼ GithubStats:**
 
-<code>
-    <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=airport-dev&count_private=true&show_icons=true&hide_border=true" style="margin: 8px 0" />
-    </a>
-    <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airport-dev&layout=compact&hide_border=true" style="margin: 8px 0"/>
-    </a>
-</code>
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=airport-dev&&count_private=true&show_icons=true&hide_border=true)
