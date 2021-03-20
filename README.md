@@ -32,11 +32,10 @@ etc ...
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=airport-dev&hide_border=true&layout=compact)
 
 <br />
-<br />
 
 **▼ This week I spent my time on:**
 
-<br />
+<img src="https://github.com/airport-dev/airport-dev/blob/main/images/stat.svg" alt="Alternative Text"/>
 <br />
 
 **▼ GithubStats:**
