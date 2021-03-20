@@ -36,6 +36,8 @@ etc ...
 
 <img height="150" src="https://github.com/airport-dev/airport-dev/blob/master/images/stat.svg" alt="WakaTime"/>
 
+[![](https://raw.githubusercontent.com/airport-dev/airport-dev/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <br />
 <br />
 
