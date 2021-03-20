@@ -32,19 +32,20 @@ etc ...
 <br />
 <br />
 
-**▼ This week I spent my time on**
+**▼ This week I spent my time on:**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=airport_dev&hide_border=true&langs_count=5)
+<img height="150" src="https://github.com/airport-dev/airport-dev/blob/master/images/stat.svg" alt="Alternative Text"/>
 
+<br />
 <br />
 
 **▼ GithubStats and Most used Languages:**
 
 <code>
     <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=airport-dev&count_private=true&show_icons=true&hide_border=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=airport-dev&count_private=true&show_icons=true&hide_border=true" style="margin: 8px 0" />
     </a>
     <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airport-dev&layout=compact&hide_border=true"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airport-dev&layout=compact&hide_border=true" style="margin: 8px 0"/>
     </a>
 </code>
