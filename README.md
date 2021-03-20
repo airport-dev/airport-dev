@@ -29,15 +29,15 @@ Hi I"m airport-dev a passionate self-tauht frontEnd web developer from japan
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 etc ...
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=airport-dev&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=airport-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <br />
 
 **▼ This week I spent my time on:**
 
-<img src="https://github.com/airport-dev/airport-dev/blob/main/images/stat.svg" alt="Alternative Text"/>
+<img height="180em" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=airport_dev&hide_title=true&hide_border=true&langs_count=5" alt="Alternative Text"/>
 <br />
 
 **▼ GithubStats:**
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=airport-dev&&count_private=true&show_icons=true&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=airport-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
