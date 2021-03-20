@@ -34,7 +34,7 @@ etc ...
 
 **▼ This week I spent my time on:**
 
-<img height="150" src="https://github.com/airport-dev/airport-dev/blob/master/images/stat.svg" alt="Alternative Text"/>
+<img height="150" src="https://github.com/airport-dev/airport-dev/blob/master/images/stat.svg" alt="WakaTime"/>
 
 <br />
 <br />
