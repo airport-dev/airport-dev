@@ -19,6 +19,12 @@ Hi I"m airport-dev a passionate self-tauht frontEnd web developer from japan
 
 <br />
 
+**▼ This week I spent my time on:**
+
+<img height="120em" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=airport_dev&hide_title=true&hide_border=true" alt="Alternative Text"/>
+<br />
+<br />
+
 **▼ Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -36,9 +42,3 @@ etc ...
 **▼ GithubStats:**
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=airport-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<br />
-<br />
-
-**▼ This week I spent my time on:**
-
-<img height="120em" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=airport_dev&hide_title=true&hide_border=true" alt="Alternative Text"/>
