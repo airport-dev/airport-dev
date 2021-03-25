@@ -21,7 +21,7 @@ Hi I"m airport-dev a passionate self-tauht frontEnd web developer from japan
 
 **▼ This week I spent my time on:**
 
-<img height="120em" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=airport_dev&hide_title=true&hide_border=true" alt="Alternative Text"/>
+<img height="180em" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=airport_dev&hide_title=true&hide_border=true" alt="Alternative Text"/>
 <br />
 <br />
 
